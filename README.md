@@ -1,5 +1,8 @@
 # Terraform Zero to Hero course
 
+###Testing how to use git
+
+
 ## Day 1: Getting Started with Terraform
 
 #### Introduction to Terraform and IaC
